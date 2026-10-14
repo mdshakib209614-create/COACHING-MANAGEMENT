@@ -1,0 +1,6 @@
+{
+  "name": "Coaching & School Management System",
+  "description": "একটি সম্পূর্ণ কোচিং ও একাডেমি ম্যানেজমেন্ট সফটওয়্যার - শিক্ষার্থী, শিক্ষক, রুটিন, প্রবেশপত্র, ফলাফল, মার্কশিট, প্রত্যয়ন পত্র, আইডি কার্ড, অধ্যায়ভিত্তিক প্রশ্নপত্র জেনারেটর এবং কাস্টমাইজেবল সিস্টেম সেটিংস।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
